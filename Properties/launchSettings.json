@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_for_writing_redis_cache": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7122",
+      "launchBrowser": false
+    }
+  }
+}
